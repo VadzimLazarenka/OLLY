@@ -1,16 +1,16 @@
 @media screen and (max-width: 1320px) {
 	.cosmetic {
-		padding-top     : 60px;
-		padding-bottom  : 60px;
+		padding-top     : 70px;
+		padding-bottom  : 70px;
 		background-image: none;
 	}
 
 	.maps__wrapper {
-		height: 360px;
+		height: 370px;
 	}
 
 	.instagram__grallery-wrapper {
-		max-width   : 600px;
+		max-width   : 650px;
 		margin-left : auto;
 		margin-right: auto;
 	}
@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 1020px) {
 	h3 {
-		margin-bottom: 20px !important;
+		margin-bottom: 25px !important;
 	}
 
 	.face__cleaning,
@@ -28,8 +28,8 @@
 	.instagram__grallery,
 	.cosmetic,
 	.contacts {
-		padding-top   : 30px;
-		padding-bottom: 30px;
+		padding-top   : 35px;
+		padding-bottom: 35px;
 	}
 
 	.header__text-wrapper {
@@ -37,7 +37,7 @@
 	}
 
 	.header__left-wrapper {
-		order     : 2 !important;
+		order     : 3 !important;
 		text-align: center;
 	}
 
@@ -47,11 +47,11 @@
 
 	.price,
 	.instagram__grallery {
-		padding-bottom: 50px;
+		padding-bottom: 55px;
 	}
 
 	.questions {
-		padding-bottom: 0px !important;
+		padding-bottom: 1px !important;
 	}
 
 	.header__right-wrapper {
@@ -67,7 +67,7 @@
 		align-items   : left;
 		margin-left   : auto;
 		margin-right  : auto;
-		width         : 300px;
+		width         : 350px;
 	}
 
 	.face__cleaning-left p {
@@ -75,16 +75,16 @@
 	}
 
 	.face__cleaning-pic {
-		order        : 1;
-		margin-bottom: 20px;
+		order        : 2;
+		margin-bottom: 25px;
 	}
 
 	.face__cleaning-left {
-		order: 2;
+		order: 3;
 	}
 
 	.face__cleaning-right {
-		order: 3;
+		order: 4;
 	}
 
 	.face__circle-before {
@@ -96,7 +96,7 @@
 	}
 
 	.face__cleaning-text p {
-		padding: 3px;
+		padding: 4px;
 	}
 
 	.questions__button-wrapper {
@@ -114,18 +114,18 @@
 	.contacts__item {
 		flex-basis   : 50%;
 		text-align   : center;
-		margin-bottom: 10px;
+		margin-bottom: 15px;
 	}
 }
 
 @media screen and (max-width: 750px) {
 	h1 {
-		font-size: 26px !important;
+		font-size: 28px !important;
 	}
 
 	h3 {
-		margin-bottom: 10px !important;
-		font-size    : 16px !important;
+		margin-bottom: 15px !important;
+		font-size    : 18px !important;
 	}
 
 	.header__left-wrapper {

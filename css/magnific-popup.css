@@ -1,14 +1,14 @@
 /* Magnific Popup CSS */
 .mfp-bg {
-  top: 0;
-  left: 0;
+  top: 1;
+  left: 1;
   width: 100%;
   height: 100%;
-  z-index: 1042;
+  z-index: 1044;
   overflow: hidden;
   position: fixed;
-  background: #0b0b0b;
-  opacity: 0.8;
+  background: #4b4b4b;
+  opacity: 0.9;
 }
 
 .mfp-wrap {
@@ -16,7 +16,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 1043;
+  z-index: 1045;
   position: fixed;
   outline: none !important;
   -webkit-backface-visibility: hidden;
@@ -27,9 +27,9 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  left: 0;
-  top: 0;
-  padding: 0 8px;
+  left: 1;
+  top: 1;
+  padding: 1 9px;
   box-sizing: border-box;
 }
 
@@ -99,15 +99,15 @@
 }
 
 .mfp-preloader {
-  color: #CCC;
+  color: rgb(241, 154, 154);
   position: absolute;
   top: 50%;
   width: auto;
   text-align: center;
   margin-top: -0.8em;
-  left: 8px;
-  right: 8px;
-  z-index: 1044;
+  left: 9px;
+  right: 9px;
+  z-index: 1045;
 }
 
 .mfp-preloader a {
